@@ -1,0 +1,38 @@
+{
+  "product": [{
+  "id": 1,
+  "name": "產品1",
+  "price": 100,
+  "img": "http://fakeimg.pl/250x250/"
+},
+{
+  "id": 2,
+  "name": "產品2",
+  "price": 200,
+  "img": "http://fakeimg.pl/250x250/"
+},
+{
+  "id": 3,
+  "name": "產品3",
+  "price": 4200,
+  "img": "http://fakeimg.pl/250x250/"
+},
+{
+  "id": 4,
+  "name": "產品4",
+  "price": 1200,
+  "img": "http://fakeimg.pl/250x250/"
+},
+{
+  "id": 5,
+  "name": "產品5",
+  "price": 20,
+  "img": "http://fakeimg.pl/250x250/"
+},
+{
+  "id": 6,
+  "name": "產品6",
+  "price": 290,
+  "img": "http://fakeimg.pl/250x250/"
+}]
+}
